@@ -2,12 +2,7 @@
 My personal repository
 
 
-I'm a Cloud Engineer, DevOps engineer, Content Creator, and Community Engineer and system administrator. I'm passionate about sharing knowledge, documentation, web engineering, Jamstack, headless commerce, and others. I build useful open-source projects, speak at some meetups/conferences, build technical communities...
-
-Here's a quick summary about me:
-
-😊 Pronouns: He/him 
-💡 Fun fact: I'm currently studying at AltSchool Africa School of Cloud Engineering Class of 2024.
-🌱 I’m currently learning AWS services , Docker containerization, kubernetes, terraform, and other deliverables that helps in deploying scalae products,  I'm also well grinded in JavaScript and Python. 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities. 
-💼 Job interests: Software Engineer, cloud Engineer (Intern or Junior level), DevOps engineer. 
-📫 You can contact me by emailing ezeliorae@gmail.com
+About Me
+I'm a passionate Cloud/DevOps Engineer with a knack for building scalable, reliable, and efficient infrastructure. With expertise in cloud platforms like AWS and GCP, I specialize in automating deployments, optimizing CI/CD pipelines, and ensuring seamless system performance. My toolkit includes Kubernetes, Docker, Terraform, Ansible, and scripting with Python and Bash, among others.
+I thrive on solving complex challenges, from architecting cloud-native solutions to implementing robust monitoring and security practices. My goal is to bridge development and operations, enabling teams to deliver high-quality software faster and more reliably.
+Explore my projects on GitHub to see my work in action, from infrastructure-as-code templates to automation scripts. I'm always excited to collaborate, learn, and contribute to innovative DevOps solutions. Let's connect to build the future of cloud infrastructure together!
